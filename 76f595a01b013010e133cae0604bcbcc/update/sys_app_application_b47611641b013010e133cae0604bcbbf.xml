@@ -14,16 +14,16 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b47611641b013010e133cae0604bcbbf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Profile Picture</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Profile Pictures</sys_name>
         <sys_overrides/>
         <sys_package display_value="Profile Picture" source="x_594295_profile_p">76f595a01b013010e133cae0604bcbcc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Profile Picture">76f595a01b013010e133cae0604bcbcc</sys_scope>
         <sys_update_name>sys_app_application_b47611641b013010e133cae0604bcbbf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-06-26 12:09:22</sys_updated_on>
-        <title>Profile Picture</title>
+        <sys_updated_on>2021-08-11 04:59:31</sys_updated_on>
+        <title>Profile Pictures</title>
         <view_name/>
     </sys_app_application>
 </record_update>
