@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="User Images" max_length="40" name="x_594295_profile_p_user_images" sizeclass="9" type="collection">
+        <element label="Bio" max_length="255" name="bio" type="string"/>
+        <element label="Cureent" max_length="40" name="cureent" type="boolean"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Number" max_length="10" name="number" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
