@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cureent" label="Cureent" language="en" table="x_594295_profile_p_user_images">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cureent</element>
+            <help/>
+            <hint/>
+            <label>Cureent</label>
+            <language>en</language>
+            <name>x_594295_profile_p_user_images</name>
+            <plural>Cureents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-26 12:30:15</sys_created_on>
+            <sys_id>223b91681b013010e133cae0604bcb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cureent</sys_name>
+            <sys_package display_value="Profile Picture" source="x_594295_profile_p">76f595a01b013010e133cae0604bcbcc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Profile Picture">76f595a01b013010e133cae0604bcbcc</sys_scope>
+            <sys_update_name>sys_documentation_x_594295_profile_p_user_images_cureent_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-26 12:30:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
